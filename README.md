@@ -4,5 +4,5 @@ A .NET console application, written in C#.
 ### About
 
 Console Application which prints `JSON` data from http client `https://jsonplaceholder.typicode.com/`.
-  - use the HttpClient.
-  - use Linq.
+  - HttpClient.
+  - Linq.
